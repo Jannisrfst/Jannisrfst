@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jannis</h1>
 <h3 align="center">A passionate learning Developer from Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jannisrfst&label=Profile%20views&color=0e75b6&style=flat" alt="jannisrfst" /> </p>
-
-- ⚡ Fun fact **I think I am funny :)**
+- ⚡ Creating Bugs **Since 2023**
 
 - 🌱 I’m currently learning **Flask SocketIO**
 
