@@ -3,7 +3,7 @@
 
 - ⚡ Creating Bugs **Since 2023**
 
-- 🌱 I’m currently learning **Flask SocketIO**
+- 🌱 I’m currently learning **Flask socketapi**
 
 - 📫 How to reach me **jannis.reufsteck1@gmail.com**
 
